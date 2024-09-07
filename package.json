@@ -1,0 +1,7 @@
+{
+	"name": "demo",
+	"main": "app.js",
+	"dependencies": {
+		"mydemo": "^0.1.0"
+	}
+}
